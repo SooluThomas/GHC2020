@@ -9,4 +9,4 @@ Stay tuned! We will upload the workshop presentation slides by 09/29/2020.
 
 #
 
-**Join the [slack channel](https://ibm.co/joinqiskitslack) #vghc2020-qiskit-workshop.***
+**Join the [slack channel](https://ibm.co/joinqiskitslack) #vghc2020-qiskit-workshop.**
