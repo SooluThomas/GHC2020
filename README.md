@@ -1,7 +1,7 @@
 # How to program a Quantum Computer
 Workshop by: **Neereja Sundaresan, Maika Takita, Soolu Thomas**
 
-Date and Time: **29th September 2020, 12:40pm - 1:40om (PT)**
+Date and Time: **29th September 2020, 12:40pm - 1:40pm (PT)**
 
 #
 
