@@ -14,7 +14,7 @@ Date and Time: **29th September 2020, 12:40pm - 1:40pm (PT)**
 
 #
 
-**Join the slack channel #vghc2020-qiskit-workshop in [Qiskit Workspace]((http://ibm.co/joinqiskitslack) )**
+**Join the slack channel #vghc2020-qiskit-workshop in [Qiskit Workspace](http://ibm.co/joinqiskitslack)**
 
 
 ![Slack help](images/slack_help.png)
